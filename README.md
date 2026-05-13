@@ -1,3 +1,7 @@
+> **This is a KISO AI fork of [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app).** See [KISO-AI-FORK.md](./KISO-AI-FORK.md) for what changed and why.
+
+---
+
 <p align="center">
   <a href="https://postiz.com/" target="_blank">
   <picture>
